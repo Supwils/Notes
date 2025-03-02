@@ -40,8 +40,20 @@ _
 - [ ] **Job Apply:** 
 - [ ] **Project Optimize:** 
 - [ ] **Project Plan and Learn:**
-- [ ] **Leetcode:** 
+- [x] **Leetcode:** 
+	 [244. Shortest Word Distance II](https://leetcode.com/problems/shortest-word-distance-ii/description/) hashmap + two pointer search
+	 [245. Shortest Word Distance III](https://leetcode.com/problems/shortest-word-distance-iii/description/)
+	 [2460. Apply Operations to an Array](https://leetcode.com/problems/apply-operations-to-an-array/description/)
+	 [2570. Merge Two 2D Arrays by Summing Values](https://leetcode.com/problems/merge-two-2d-arrays-by-summing-values/description/) two pointer merge list
+	 [410. Split Array Largest Sum](https://leetcode.com/problems/split-array-largest-sum/description/) binary search + check fesibility
+	 [3304. Find the K-th Character in String Game I](https://leetcode.com/problems/find-the-k-th-character-in-string-game-i/)
 
-_Wake up early and with good performance
-A good start of the progress tracker, keepup doing things
-_
+__
+
+---
+# 03-02-2025 Sun
+## Work Track
+- [ ] **Job Apply:** 
+- [ ] **Project Optimize:** 
+- [ ] **Chinese Resume**
+- [x] **Leetcode** 
