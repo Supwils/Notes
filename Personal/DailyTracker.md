@@ -37,9 +37,9 @@ _
 
 # 03-01-2025 Sat
 ## Work Track
-- [ ] **Job Apply:** 
-- [ ] **Project Optimize:** 
-- [ ] **Project Plan and Learn:**
+- [x] **Job Apply:** 10 Jobs
+- [x] **Project Optimize:** Project card adjust
+- [x] **Project Plan and Learn:**
 - [x] **Leetcode:** 
 	 [244. Shortest Word Distance II](https://leetcode.com/problems/shortest-word-distance-ii/description/) hashmap + two pointer search
 	 [245. Shortest Word Distance III](https://leetcode.com/problems/shortest-word-distance-iii/description/)
@@ -53,7 +53,28 @@ __
 ---
 # 03-02-2025 Sun
 ## Work Track
-- [ ] **Job Apply:** 
-- [ ] **Project Optimize:** 
-- [ ] **Chinese Resume**
+- [x] **Job Apply:** 10+ Jobs
+- [x] **Project Optimize:** Admin login feature initialized pending actual service logic
+- [x] **Chinese Resume** Full-stack version done
 - [x] **Leetcode** 
+		[1929. Concatenation of Array](https://leetcode.com/problems/concatenation-of-array/)
+		[64. Minimum Path Sum](https://leetcode.com/problems/minimum-path-sum/) DP in place
+		[61. Rotate List](https://leetcode.com/problems/rotate-list/) form a circle and cut
+		[14. Longest Common Prefix](https://leetcode.com/problems/longest-common-prefix/)
+		[347. Top K Frequent Elements](https://leetcode.com/problems/top-k-frequent-elements/)
+
+			
+_what I feel that I should still spend some time for polish my resume _
+
+---
+
+# 03-03-2025 Mon
+## Work Track
+- [ ] **Job Apply:**  8-10
+- [ ] **Project Optimize:** 2-4
+- [ ] **Leetcode** 10-12
+
+ _ remember opt aus visa_
+
+
+---
