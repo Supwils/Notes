@@ -70,11 +70,20 @@ _what I feel that I should still spend some time for polish my resume _
 
 # 03-03-2025 Mon
 ## Work Track
-- [ ] **Job Apply:**  8-10
-- [ ] **Project Optimize:** 2-4
-- [ ] **Leetcode** 10-12
+- [x] **Job Apply:**  8-10
+- [x] **Project Optimize:**try to add a music play feature
+- [x] **Leetcode** 
+     [121. Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/)
+     [71. Simplify Path](https://leetcode.com/problems/simplify-path/)
+     [895. Maximum Frequency Stack](https://leetcode.com/problems/maximum-frequency-stack/) freq and group hashmap
 
- _ remember opt aus visa_
+ _ Talked with my friends, they are pretty good and working hard as well on looking for jobs and interviews. Some are already landed and some are actively look, I have to be more positive and aggregate on jobs even though with the bad market and competitive environment, boost up yourself first. Remember!_
 
 
 ---
+
+# 03-04-2025 Tus
+## Work Track
+- [x] **Job Apply:**  8-10
+- [ ] **Project Optimize:**try to add a music play feature
+- [ ] **Leetcode** 
