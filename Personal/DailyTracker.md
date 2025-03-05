@@ -97,6 +97,9 @@ _
 
 _AMAZON OA and FN OA, AUS Visa, Boss APP_
 
+_Contributed to react quill for issues did some updates to my site then gotta go to bed
+People saying that if you talk to your mom after a while, you will find peace in your mind, this is true then_
+
 
 
 ---
