@@ -79,11 +79,26 @@ _what I feel that I should still spend some time for polish my resume _
 
  _ Talked with my friends, they are pretty good and working hard as well on looking for jobs and interviews. Some are already landed and some are actively look, I have to be more positive and aggregate on jobs even though with the bad market and competitive environment, boost up yourself first. Remember!_
 
+_排骨鸡腿乱焖：准备小排和切块无骨鸡腿 腌制 葱姜水 耗油 酱油 五香粉 胡椒粉 料酒
+				起锅烧油 个人喜好小料葱姜蒜 下入所有肉 煎炒起焦 加开水 加生抽老抽调味
+				煮50分钟 开盖加入配菜随意 白菜豆皮等 再10-20分钟
+_
+
 
 ---
 
 # 03-04-2025 Tus
 ## Work Track
-- [x] **Job Apply:**  8-10
-- [ ] **Project Optimize:**try to add a music play feature
+- [x] **Job Apply:**  Amazon OA and FN OA
+- [x] **Project Optimize:** music feature completed, blog api integreated with nextjs router next try to implement login for blog upload
 - [ ] **Leetcode** 
+	[81. Search in Rotated Sorted Array II](https://leetcode.com/problems/search-in-rotated-sorted-array-ii/) binary search determine which side is ordered
+	[1094. Car Pooling](https://leetcode.com/problems/car-pooling/)
+
+_AMAZON OA and FN OA, AUS Visa, Boss APP_
+
+
+
+---
+# 03-04-2025 Wed
+## Work Track
