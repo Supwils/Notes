@@ -103,5 +103,20 @@ People saying that if you talk to your mom after a while, you will find peace in
 
 
 ---
-# 03-04-2025 Wed
+# 03-05-2025 Wed
+## Work Track
+- [x] **Job Apply:**  Amazon OA and FN OA
+- [x] **Prepare for OA:**
+- [x] **Project Optimize:** 
+- [ ] **Leetcode** 
+	[767. Reorganize String](https://leetcode.com/problems/reorganize-string/)
+	[2965. Find Missing and Repeated Values](https://leetcode.com/problems/find-missing-and-repeated-values/)
+- [ ] **Setting up windows for pair collaboration**
+
+
+_Got business lisence, Bought rog zephy 14 bro crazy_
+
+---
+
+# 03-06-2025 Wed
 ## Work Track
