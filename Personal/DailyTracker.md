@@ -105,7 +105,7 @@ People saying that if you talk to your mom after a while, you will find peace in
 ---
 # 03-05-2025 Wed
 ## Work Track
-- [x] **Job Apply:**  Amazon OA and FN OA
+- [x] **Job Apply:**  A couple 
 - [x] **Prepare for OA:**
 - [x] **Project Optimize:** 
 - [ ] **Leetcode** 
@@ -118,5 +118,22 @@ _Got business lisence, Bought rog zephy 14 bro crazy_
 
 ---
 
-# 03-06-2025 Wed
+# 03-06-2025 Thu
 ## Work Track
+- [ ] **Job Apply:**  Amazon OA and FN OA
+- [x] **Prepare for OA:** Read articles and shares from leetcode 1acer3 reddit glassdoor
+- [ ] **Project Optimize:** 
+- [ ] **Leetcode** 
+		[1152. Analyze User Website Visit Pattern](https://leetcode.com/problems/analyze-user-website-visit-pattern/) zip lists make hashmap get combination and get most frequent 
+		[380. Insert Delete GetRandom O(1)](https://leetcode.com/problems/insert-delete-getrandom-o1/)
+		[54. Spiral Matrix](https://leetcode.com/problems/spiral-matrix/)
+
+	_Studied ides for Java, C++ etc_
+---
+
+# 03-07-2025 Fri
+## Work Track
+- [ ] **Job Apply:**  Amazon OA and FN OA
+- [x] **Prepare for OA:** Read articles and shares from leetcode 1acer3 reddit glassdoor
+- [ ] **Project Optimize:** 
+- [ ] **Leetcode** 
