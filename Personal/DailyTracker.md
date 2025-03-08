@@ -108,10 +108,10 @@ People saying that if you talk to your mom after a while, you will find peace in
 - [x] **Job Apply:**  A couple 
 - [x] **Prepare for OA:**
 - [x] **Project Optimize:** 
-- [ ] **Leetcode** 
+- [x] **Leetcode** 
 	[767. Reorganize String](https://leetcode.com/problems/reorganize-string/)
 	[2965. Find Missing and Repeated Values](https://leetcode.com/problems/find-missing-and-repeated-values/)
-- [ ] **Setting up windows for pair collaboration**
+- [x] **Setting up windows for pair collaboration**
 
 
 _Got business lisence, Bought rog zephy 14 bro crazy_
@@ -120,10 +120,10 @@ _Got business lisence, Bought rog zephy 14 bro crazy_
 
 # 03-06-2025 Thu
 ## Work Track
-- [ ] **Job Apply:**  Amazon OA and FN OA
+- [x] **Job Apply:**  Amazon OA and FN OA
 - [x] **Prepare for OA:** Read articles and shares from leetcode 1acer3 reddit glassdoor
-- [ ] **Project Optimize:** 
-- [ ] **Leetcode** 
+- [x] **Project Optimize:** 
+- [x] **Leetcode** 
 		[1152. Analyze User Website Visit Pattern](https://leetcode.com/problems/analyze-user-website-visit-pattern/) zip lists make hashmap get combination and get most frequent 
 		[380. Insert Delete GetRandom O(1)](https://leetcode.com/problems/insert-delete-getrandom-o1/)
 		[54. Spiral Matrix](https://leetcode.com/problems/spiral-matrix/)
@@ -133,7 +133,16 @@ _Got business lisence, Bought rog zephy 14 bro crazy_
 
 # 03-07-2025 Fri
 ## Work Track
-- [ ] **Job Apply:**  Amazon OA and FN OA
-- [x] **Prepare for OA:** Read articles and shares from leetcode 1acer3 reddit glassdoor
-- [ ] **Project Optimize:** 
-- [ ] **Leetcode** 
+- [x] **Job Apply:**  Amazon OA and FN OA
+- [x] **Prepare for OA:** 
+- [x] **Interview Practice with Mock** 
+- [x] **Leetcode** 
+	 [3371. Identify the Largest Outlier in an Array](https://leetcode.com/problems/identify-the-largest-outlier-in-an-array/)
+	 [2357. Make Array Zero by Subtracting Equal Amounts](https://leetcode.com/problems/make-array-zero-by-subtracting-equal-amounts/) heap
+
+_All day prepare for OAs and question, went outside with nini for walk and dinner_
+
+---
+
+# 03-08-2025 Sat
+## Work Track
