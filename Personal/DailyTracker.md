@@ -146,3 +146,16 @@ _All day prepare for OAs and question, went outside with nini for walk and dinne
 
 # 03-08-2025 Sat
 ## Work Track
+- [ ] **Job Apply:**  Amazon OA and FN OA
+- [ ] **Prepare for OA:** 
+- [x] **Project Optimize** optimized Web Social with main page effect optimized backend with more industry standard
+- [ ] **Leetcode** 
+		[295. Find Median from Data Stream](https://leetcode.com/problems/find-median-from-data-stream/)
+
+---
+
+# 03-09-2025 Sun
+## Work Track
+
+
+_Ready for the amazon OA on night_
