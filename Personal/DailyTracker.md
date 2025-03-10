@@ -146,16 +146,23 @@ _All day prepare for OAs and question, went outside with nini for walk and dinne
 
 # 03-08-2025 Sat
 ## Work Track
-- [ ] **Job Apply:**  Amazon OA and FN OA
+- [ ] **Job Apply:**  Amazon OA and FN OA other applies
 - [ ] **Prepare for OA:** 
 - [x] **Project Optimize** optimized Web Social with main page effect optimized backend with more industry standard
 - [ ] **Leetcode** 
 		[295. Find Median from Data Stream](https://leetcode.com/problems/find-median-from-data-stream/)
+		[480. Sliding Window Median](https://leetcode.com/problems/sliding-window-median/)
 
 ---
 
 # 03-09-2025 Sun
-## Work Track
-
+## Work Track- 
+- [ ] **Job Apply:**  Amazon OA and FN OA 
+- [ ] **Prepare for OA:** 
+- [x] **Project Optimize** optimized supwils site with blog features more completed with create blog and processing data
+- [ ] **Leetcode** 
+		[378. Kth Smallest Element in a Sorted Matrix](https://leetcode.com/problems/kth-smallest-element-in-a-sorted-matrix/)
+		[53. Maximum Subarray](https://leetcode.com/problems/maximum-subarray/)
+		[918. Maximum Sum Circular Subarray](https://leetcode.com/problems/maximum-sum-circular-subarray/)
 
 _Ready for the amazon OA on night_
