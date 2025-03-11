@@ -165,4 +165,18 @@ _All day prepare for OAs and question, went outside with nini for walk and dinne
 		[53. Maximum Subarray](https://leetcode.com/problems/maximum-subarray/)
 		[918. Maximum Sum Circular Subarray](https://leetcode.com/problems/maximum-sum-circular-subarray/)
 
-_Ready for the amazon OA on night_
+_Ready for the amazon OA on night Completed Amazon OA_
+
+
+# 03-10-2025 Mon
+## Work Track- 
+- [ ] **Job Apply:** FN OA 
+- [ ] **Optimized Resume**  Did a optimization of my resume 
+- [ ] **Project Optimize** 
+- [ ] **Leetcode** 
+
+_Submitted for SEVIS work keep the record of working!!!_
+
+
+# 03-11-2025 Mon
+## Work Track- 
