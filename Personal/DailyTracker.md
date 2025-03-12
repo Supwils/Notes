@@ -170,13 +170,25 @@ _Ready for the amazon OA on night Completed Amazon OA_
 
 # 03-10-2025 Mon
 ## Work Track- 
-- [ ] **Job Apply:** FN OA 
+- [ ] **Job Apply:** FN OA 10+ Apply
 - [ ] **Optimized Resume**  Did a optimization of my resume 
 - [ ] **Project Optimize** 
-- [ ] **Leetcode** 
+- [ ] **Leetcode** DP 
 
 _Submitted for SEVIS work keep the record of working!!!_
 
 
-# 03-11-2025 Mon
+# 03-11-2025 Tus
+## Work Track- 
+- [ ] **Job Apply:** 
+- [ ] **Optimized Resume**  
+- [ ] **Project Optimize** 
+- [ ] **Leetcode** DP 
+		[62. Unique Paths](https://leetcode.com/problems/unique-paths/)
+		[63. Unique Paths II](https://leetcode.com/problems/unique-paths-ii/)
+		[221. Maximal Square](https://leetcode.com/problems/maximal-square/)
+		[64. Minimum Path Sum](https://leetcode.com/problems/minimum-path-sum/)
+
+
+# 03-12-2025 Wed
 ## Work Track- 
