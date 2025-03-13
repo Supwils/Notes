@@ -180,15 +180,22 @@ _Submitted for SEVIS work keep the record of working!!!_
 
 # 03-11-2025 Tus
 ## Work Track- 
-- [ ] **Job Apply:** 
-- [ ] **Optimized Resume**  
-- [ ] **Project Optimize** 
-- [ ] **Leetcode** DP 
+- [x] **Job Apply:** 
+- [x] **Optimized Resume**  
+- [x] **Project Optimize** 
+- [x] **Leetcode** DP 
 		[62. Unique Paths](https://leetcode.com/problems/unique-paths/)
 		[63. Unique Paths II](https://leetcode.com/problems/unique-paths-ii/)
 		[221. Maximal Square](https://leetcode.com/problems/maximal-square/)
 		[64. Minimum Path Sum](https://leetcode.com/problems/minimum-path-sum/)
+		[1143. Longest Common Subsequence](https://leetcode.com/problems/longest-common-subsequence/)
+		[1049. Last Stone Weight II](https://leetcode.com/problems/last-stone-weight-ii/)
 
 
 # 03-12-2025 Wed
 ## Work Track- 
+- [ ] **Job Apply:** 
+- [ ] **Project Optimize** Developing the personal site blog feature
+- [ ] **Leetcode** continue on DP
+
+_Prepare for OA and Splunk interview_

@@ -9,7 +9,6 @@
 - ##### PaaS: Platform as a Service  
   平台即服务，面向开发者，提供云端开发、部署和管理应用的完整平台，用户无需关注底层基础设施。  
   **示例：** Heroku、Google App Engine、Microsoft Azure App Service
-- 
 - ##### IaaS: Infrastructure as a Service  
   基础设施即服务，提供虚拟化的计算资源（如服务器、存储和网络），供用户搭建和管理自己的 IT 环境。  
   **示例：** AWS EC2、Google Compute Engine、Microsoft Azure 虚拟机
