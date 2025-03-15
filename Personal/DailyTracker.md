@@ -197,5 +197,37 @@ _Submitted for SEVIS work keep the record of working!!!_
 - [ ] **Job Apply:** 
 - [ ] **Project Optimize** Developing the personal site blog feature
 - [ ] **Leetcode** continue on DP
+		[309. Best Time to Buy and Sell Stock with Cooldown](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-with-cooldown/)
+		[1137. N-th Tribonacci Number](https://leetcode.com/problems/n-th-tribonacci-number/)
+_Prepare for OA and Splunk interview_
 
+---
+
+# 03-13-2025 Thu
+## Work Track- 
+- [ ] **Job Apply:** 
+- [ ] **Project Optimize** Invested CI/CD on github action updated site and deployed
+- [ ] **Leetcode** continue on DP
+		
+_Prepare for OA and Splunk interview_
+
+
+---
+
+# 03-14-2025 Fri
+## Work Track- 
+- [ ] **Job Apply:** 
+- [ ] **Project Optimize** Developing the personal site blog feature
+- [ ] **Leetcode** continue on DP
+		[309. Best Time to Buy and Sell Stock with Cooldown](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-with-cooldown/)
+		[1137. N-th Tribonacci Number](https://leetcode.com/problems/n-th-tribonacci-number/)
+_Prepare for OA and Splunk interview_
+
+# 03-15-2025 Fri
+## Work Track- 
+- [ ] **Job Apply:** 
+- [ ] **Project Optimize** 
+- [ ] - [ ] **Behavior Question Prepare** 
+- [ ] **Leetcode** continue on DP
+		
 _Prepare for OA and Splunk interview_
