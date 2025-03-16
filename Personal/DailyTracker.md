@@ -157,10 +157,10 @@ _All day prepare for OAs and question, went outside with nini for walk and dinne
 
 # 03-09-2025 Sun
 ## Work Track- 
-- [ ] **Job Apply:**  Amazon OA and FN OA 
-- [ ] **Prepare for OA:** 
+- [x] **Job Apply:**  Amazon OA and FN OA 
+- [x] **Prepare for OA:** 
 - [x] **Project Optimize** optimized supwils site with blog features more completed with create blog and processing data
-- [ ] **Leetcode** 
+- [x] **Leetcode** 
 		[378. Kth Smallest Element in a Sorted Matrix](https://leetcode.com/problems/kth-smallest-element-in-a-sorted-matrix/)
 		[53. Maximum Subarray](https://leetcode.com/problems/maximum-subarray/)
 		[918. Maximum Sum Circular Subarray](https://leetcode.com/problems/maximum-sum-circular-subarray/)
@@ -170,10 +170,10 @@ _Ready for the amazon OA on night Completed Amazon OA_
 
 # 03-10-2025 Mon
 ## Work Track- 
-- [ ] **Job Apply:** FN OA 10+ Apply
-- [ ] **Optimized Resume**  Did a optimization of my resume 
-- [ ] **Project Optimize** 
-- [ ] **Leetcode** DP 
+- [x] **Job Apply:** FN OA 10+ Apply
+- [x] **Optimized Resume**  Did a optimization of my resume 
+- [x] **Project Optimize** 
+- [x] **Leetcode** DP 
 
 _Submitted for SEVIS work keep the record of working!!!_
 
@@ -194,9 +194,9 @@ _Submitted for SEVIS work keep the record of working!!!_
 
 # 03-12-2025 Wed
 ## Work Track- 
-- [ ] **Job Apply:** 
-- [ ] **Project Optimize** Developing the personal site blog feature
-- [ ] **Leetcode** continue on DP
+- [x] **Job Apply:** 
+- [x] **Project Optimize** Developing the personal site blog feature
+- [x] **Leetcode** continue on DP
 		[309. Best Time to Buy and Sell Stock with Cooldown](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-with-cooldown/)
 		[1137. N-th Tribonacci Number](https://leetcode.com/problems/n-th-tribonacci-number/)
 _Prepare for OA and Splunk interview_
@@ -205,9 +205,9 @@ _Prepare for OA and Splunk interview_
 
 # 03-13-2025 Thu
 ## Work Track- 
-- [ ] **Job Apply:** 
-- [ ] **Project Optimize** Invested CI/CD on github action updated site and deployed
-- [ ] **Leetcode** continue on DP
+- [x] **Job Apply:** 
+- [x] **Project Optimize** Invested CI/CD on github action updated site and deployed
+- [x] **Leetcode** continue on DP
 		
 _Prepare for OA and Splunk interview_
 
@@ -216,18 +216,22 @@ _Prepare for OA and Splunk interview_
 
 # 03-14-2025 Fri
 ## Work Track- 
-- [ ] **Job Apply:** 
-- [ ] **Project Optimize** Developing the personal site blog feature
-- [ ] **Leetcode** continue on DP
+- [x] **Job Apply:** 
+- [x] **Project Optimize** Developing the personal site blog feature
+- [x] **Leetcode** continue on DP
 		[309. Best Time to Buy and Sell Stock with Cooldown](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-with-cooldown/)
 		[1137. N-th Tribonacci Number](https://leetcode.com/problems/n-th-tribonacci-number/)
 _Prepare for OA and Splunk interview_
 
 # 03-15-2025 Fri
 ## Work Track- 
-- [ ] **Job Apply:** 
+- [x] **Job Apply:** 
 - [ ] **Project Optimize** 
-- [ ] - [ ] **Behavior Question Prepare** 
-- [ ] **Leetcode** continue on DP
+- [ ]  **Behavior Question Prepare** 
+- [x] **Leetcode** 
+		[217. Contains Duplicate](https://leetcode.com/problems/contains-duplicate/)
+		[242. Valid Anagram](https://leetcode.com/problems/valid-anagram/)
+		[11. Container With Most Water](https://leetcode.com/problems/container-with-most-water/)
+		[2402. Meeting Rooms III](https://leetcode.com/problems/meeting-rooms-iii/)
 		
 _Prepare for OA and Splunk interview_
