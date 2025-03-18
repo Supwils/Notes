@@ -223,10 +223,10 @@ _Prepare for OA and Splunk interview_
 		[1137. N-th Tribonacci Number](https://leetcode.com/problems/n-th-tribonacci-number/)
 _Prepare for OA and Splunk interview_
 
-# 03-15-2025 Fri
+# 03-15-2025 Sat
 ## Work Track- 
 - [x] **Job Apply:** 
-- [ ] **Project Optimize** 
+- [ ] **Project Optimize** Initialized lifestyle page
 - [ ]  **Behavior Question Prepare** 
 - [x] **Leetcode** 
 		[217. Contains Duplicate](https://leetcode.com/problems/contains-duplicate/)
@@ -235,3 +235,26 @@ _Prepare for OA and Splunk interview_
 		[2402. Meeting Rooms III](https://leetcode.com/problems/meeting-rooms-iii/)
 		
 _Prepare for OA and Splunk interview_
+
+
+# 03-15-2025 Sun
+## Work Track- 
+- [x] **Job Apply:** 
+- [x] **Project Optimize** 
+- [x]  **Behavior Question Prepare** 
+- [x] **Leetcode** 
+
+
+_Sunday going fast_
+
+
+# 03-16-2025 Mon
+## Work Track- 
+- [x] **Job Apply:** 
+- [x] **Project Optimize** 
+- [x]  **Behavior Question Prepare** 
+- [x] **Leetcode** 
+		[77. Combinations](https://leetcode.com/problems/combinations/)
+		[698. Partition to K Equal Sum Subsets](https://leetcode.com/problems/partition-to-k-equal-sum-subsets/)
+		[473. Matchsticks to Square](https://leetcode.com/problems/matchsticks-to-square/)
+		
