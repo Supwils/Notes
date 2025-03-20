@@ -237,7 +237,7 @@ _Prepare for OA and Splunk interview_
 _Prepare for OA and Splunk interview_
 
 
-# 03-15-2025 Sun
+# 03-16-2025 Sun
 ## Work Track- 
 - [x] **Job Apply:** 
 - [x] **Project Optimize** 
@@ -248,7 +248,7 @@ _Prepare for OA and Splunk interview_
 _Sunday going fast_
 
 
-# 03-16-2025 Mon
+# 03-17-2025 Mon
 ## Work Track- 
 - [x] **Job Apply:** 
 - [x] **Project Optimize** 
@@ -257,4 +257,22 @@ _Sunday going fast_
 		[77. Combinations](https://leetcode.com/problems/combinations/)
 		[698. Partition to K Equal Sum Subsets](https://leetcode.com/problems/partition-to-k-equal-sum-subsets/)
 		[473. Matchsticks to Square](https://leetcode.com/problems/matchsticks-to-square/)
-		
+		[78. Subsets](https://leetcode.com/problems/subsets/)
+		[232. Implement Queue using Stacks](https://leetcode.com/problems/implement-queue-using-stacks/)
+		[735. Asteroid Collision](https://leetcode.com/problems/asteroid-collision/)
+		[394. Decode String](https://leetcode.com/problems/decode-string/)
+		[1095. Find in Mountain Array](https://leetcode.com/problems/find-in-mountain-array/)
+
+# 03-18-2025 Tus
+## Work Track- 
+- [x] **Job Apply:** 
+- [x] **Project Optimize** 
+- [x]  **Behavior Question Prepare** 
+- [x] **Leetcode** 
+
+# 03-19-2025 Wed
+## Work Track- 
+- [x] **Job Apply:** 
+- [x] **Project Optimize** 
+- [x]  **Behavior Question Prepare** 
+- [x] **Leetcode** 
